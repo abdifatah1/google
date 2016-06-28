@@ -1,0 +1,52 @@
+img{
+margin-left: 25%;
+margin-top: 10%;
+}
+form{
+  text-align: center;
+}
+  input{
+  border:1px solid #B7CEEC;
+  padding: 10px 15px;
+}
+a {
+  display: inline-block;
+  vertical-align:top;
+  float: right;
+  margin-top: 1%;
+  color: black;
+  font-size:15px;
+  padding-left: 1%;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+.href{
+  margin-right:10%;
+}
+button{
+  background-color:#0066FF;
+  border: none;
+  color: white;
+  padding: 1px 2px;
+  text-align: center;
+  font-size: 20px;
+  position: absolute;
+  top:2%;
+  right:1%;
+}
+li{
+  list-style-type: none;
+  display: inline-block;
+}
+.left{
+position: absolute;
+bottom: 0%;
+right: 1%;
+}
+.right{
+position: absolute;
+bottom:0;
+left: 1%;
+}
